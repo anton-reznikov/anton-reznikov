@@ -20,7 +20,7 @@
   ],
   "additionalInformation": [
     "I like to always follow the best development practices",
-    "I am always learning something new and helpful information"
+    "I am always learning new and helpful information"
   ]
 }
 ```
