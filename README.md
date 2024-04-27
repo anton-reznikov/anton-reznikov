@@ -15,7 +15,6 @@
     "React",
     "React Ecosystem"
     "Next",
-    "Functional Programming",
   ],
   "additionalInformation": [
     "I like to always follow the best development practices",
