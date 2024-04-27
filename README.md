@@ -8,7 +8,6 @@
     "Clean Architecture",
     "Jest | Vitest",
     "React Testing Library",
-    "Docker",
     "Ways to make our world much better"
   ],
   "telegram": "https://t.me/anton_reznikov",
