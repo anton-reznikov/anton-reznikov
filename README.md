@@ -1,8 +1,5 @@
 ```json
 {
-  "currentlyWorkingOn": [
-    "I am looking for a job",
-  ],
   "currentlyLearning": [
     "Functional Programming",
     "Clean Architecture",
@@ -10,7 +7,6 @@
     "React Testing Library",
     "Ways to make our world much better"
   ],
-  "telegram": "https://t.me/anton_reznikov",
   "askMeAbout": [
     "React",
     "React Ecosystem"
